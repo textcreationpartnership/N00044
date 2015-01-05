@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <body>
          <div type="laws_and_orders">
-            <pb facs="tcp:000081_0000_0F9F8FBD963BE500"/>
-            <pb n="1" facs="tcp:000081_0001_0F9F8FBE64C256E0"/>
+            <pb facs="unknown:000081_0000_0F9F8FBD963BE500"/>
+            <pb n="1" facs="unknown:000081_0001_0F9F8FBE64C256E0"/>
             <head>SEVERALL LAVVS AND ORDERS Made at Severall GENERAL COURTS In the Years 1661. 1662. 1663.</head>
             <head type="sub">PRinted and Published by Order of the <hi>General Court</hi> held at <hi>Boston</hi> the <hi>20<hi rend="sup">th</hi>
                </hi> of <hi>October, 1663.</hi>
@@ -125,7 +125,7 @@
                   <seg rend="decorInit">T</seg>His Court, <hi>being desirous to try all means, with as much lenity as may consist with our Safety, to prevent the Intrusions of the</hi> Quakers, <hi>who besides their absurd and Blaspemous Doctrines, do like Rogues and Va<g ref="char:EOLhyphen"/>gabonds come in upon us, and have not been Restrained by the Laws already provided</hi>; Have Ordered, That every such Vagabond Quaker,<note place="margin">Order against Quakers and Va<g ref="char:EOLunhyphen"/>gabond Rogues.</note> found within any part of this Jurisdiction, shall be Apprehended by any person or persons, or by the Constable of the Town wherein he or she is taken; and by the Constable, or in his absence by any other person or persons, conveyed before the next Magistrate of that Shire wherein they are taken, or Commis<g ref="char:EOLhyphen"/>sioner invested with Magistratical Power: And being by the said Magistrate or Magistrates, Commissioner or Commissioners, adjudged to be a <hi>Wandring Quake<gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
                      </gap>,</hi> viz. One that hath not any Dwelling<g ref="char:punc">▪</g> or orderly allowance as an In<g ref="char:EOLhyphen"/>habitant of this Jurisdiction; and not giving civil Respect, by the usuall Gestures thereof, or, by any other way or means manifesting himself to be a Quaker, shall by Warrant under the Hand of the said Magistrate or Magi<g ref="char:EOLhyphen"/>strates, Commissioner or Commissioners, directed to the Constable of the Town wherein he or she is taken, or in absence of the Constable, to any other meet person, Be stripped naked from the Middle upwards, and tyed to a Carts tayle, and Whipped through the Town, and from thence immediately conveyed to the Constable of the next Town towards the Borders of our
-<pb n="2" facs="tcp:000081_0002_0F9F8FBF0ED85AA0"/>
+<pb n="2" facs="unknown:000081_0002_0F9F8FBF0ED85AA0"/>
 Jurisdiction, as their Warrant shall direct; and so from Constable to Constable, till they be conveyed through any the outwardmost Towns of our Juris<g ref="char:EOLhyphen"/>diction</p>
                <p>And if such Vagabond Quaker shall return again, then to be in like man<g ref="char:EOLhyphen"/>ner Apprehended, and conveyed as often as they shall be found within the Li<g ref="char:EOLhyphen"/>mits of our Jurisdiction. Provided every such Wandring Quaker having been thrice Convicted and sent away as abovesaid, and returning again into this Iurisdiction, shall be Apprehended, and Committed by any Magistrate or Commissioner as abovesaid, unto the House of Correction within that County wherein he or she is found, untill the next Court of that County; where if the Court judge not meet to Release them<g ref="char:punc">▪</g> they shall be Branded with the Let<g ref="char:EOLhyphen"/>ter <hi>R.</hi> on their left Shoulder, and be severely Whipt, and sent away in manner as before. And if after this, he or she shall return again; then to be pro<g ref="char:EOLhyphen"/>ceeded against as Incorrigible Rogues, and Enemies to the Common Peace<g ref="char:punc">▪</g> and shall immediately be Apprehended, and Committed to the Common Goal of the Country, and at the next Court of Assistants shall be brought to their Tryal, and Proceeded against according to the Law made <hi>Anno</hi> 1658. <hi>p</hi> 
                   <gap reason="illegible: indecipherable" extent="1 letter">
@@ -158,7 +158,7 @@ Jurisdiction, as their Warrant shall direct; and so from Constable to Constable,
                      <hi>WHereas excesse in Apparel among<gap reason="illegible: indecipherable" extent="2 letters">
                            <desc>••</desc>
                         </gap> us, unbecoming a Wilderness-condition, and the Profession of the Gospel, whereby the Rising Generation are in danger to be Corrupted and Effeminated; which Practises are witnessed against by the Laws of God, and sundry Civil and Christian Nations:</hi> It is therefore Ordered and En<g ref="char:EOLhyphen"/>acted by this Court,<note place="margin">Addition to the Law for Apparel</note> and the Authority thereof, That all persons within this Jurisdiction, whether the Children, or Servants that are under government in Fa<g ref="char:EOLhyphen"/>milies,
-<pb n="3" facs="tcp:000081_0003_0F9F8FBFD22FDA70"/>
+<pb n="3" facs="unknown:000081_0003_0F9F8FBFD22FDA70"/>
 that shall wear any Apparel exceeding the quality and condition of their Persons or Estate or that is apparently contrary to the ends of Apparel; and either of these to be so judged by the Grand-jury and County Court of that Shire where such Complaint or Presentment is made: All such persons being Convicted, shall for the first Offence be Admonished; for the second Offence pay a Fine of Twenty shillings; for the third Offence, Forty shillings; and so following, as the Offences are multiplied, to pay Forty shillings a time to the Treasury of that County. Also if any Taylor shall make or fashion any Gar<g ref="char:EOLhyphen"/>ment for such Children or Servants under government as aforesaid, contrary to the minde and order of their Parents, or Governours, Every such Taylor shall for the first Offence be Admonished; and for the second Offence forfeit double the Value of such Apparel or Garment as he shall fashion or make, con<g ref="char:EOLhyphen"/>trary to the minde and order of their Parents or Governours: Half to the Owner, and half to the Country. And all Grand-jury men are hereby En<g ref="char:EOLhyphen"/>joyned to Present all those whom they do judge breakers of this Order.</p>
                </div>
                <div type="orders">
@@ -189,7 +189,7 @@ that shall wear any Apparel exceeding the quality and condition of their Persons
                </div>
             </div>
             <div type="orders">
-               <pb n="4" facs="tcp:000081_0004_0F9F8FC091797AF0"/>
+               <pb n="4" facs="unknown:000081_0004_0F9F8FC091797AF0"/>
                <head>
                   <hi>OCTOBER</hi> the 8<hi rend="sup">th</hi>. 1662.</head>
                <p>
@@ -219,7 +219,7 @@ that shall wear any Apparel exceeding the quality and condition of their Persons
                   <hi>OCTOBER</hi> the 20<hi rend="sup">th</hi>, 1663.</head>
                <p>
                   <hi>FOr the better Regulating of Elections upon the Day of Election, and avoiding the inconveniences which may attend the same:</hi> It is Ordered by this Court, That henceforth the General Court, both Magistrates and Deputies, shall meet to<g ref="char:EOLhyphen"/>gether in the Court Chamber at seven of the clock that morning, and become a
-<pb n="5" facs="tcp:000081_0005_0F9F8FC2B647D7F0"/>
+<pb n="5" facs="unknown:000081_0005_0F9F8FC2B647D7F0"/>
 Court, and begin and consider of such things as are necessary in reference to the Work of the <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
@@ -262,7 +262,7 @@ Court, and begin and consider of such things as are necessary in reference to th
                </p>
                <p>And that all imployed in this trust, do from time to time make Return of all Bonds and Certificates by them passed, to Mr. <hi>Rawson,</hi>
                   <note place="margin">Order requiring Bond of Ship<g ref="char:EOLhyphen"/>masters, &amp;c.</note> who by the Governours Advice shall make Return thereof for <hi>England,</hi> as the Act of Parliament re<g ref="char:EOLhyphen"/>quireth. And that Mr. <hi>Rawson</hi> do from time to time present the Council of
-<pb n="6" facs="tcp:000081_0006_0F9F8FC36FAA87A8"/>
+<pb n="6" facs="unknown:000081_0006_0F9F8FC36FAA87A8"/>
 this Common-weal, or in default thereof the Court of Assistants, with true Accounts of all Bonds and Certificates, and Copies of all Letters that he shall send for <hi>England,</hi> in any wise referring to this matter.</p>
                <p>Moreover it is Ordered, That the Secretary take special care forthwith to send by the first opportunity, Font Copies of the Councils, and one of the Copies of the Act of Parliament relating thereunto, to the Four General Go<g ref="char:EOLhyphen"/>vernments of <hi>New-England,</hi> viz. <hi>Plimouth, Co<gap reason="illegible: indecipherable" extent="2 letters">
                         <desc>••</desc>
@@ -280,7 +280,7 @@ this Common-weal, or in default thereof the Court of Assistants, with true Accou
                   <note place="margin">Officers Com<g ref="char:EOLhyphen"/>missions.</note> It is Ordered and hereby De<g ref="char:EOLhyphen"/>clared, That all Commissions of Inferiour Officers be and do stand good and in force, notwithstanding the Death or Removal of their Superiour Officers.</p>
                <p>It is also further Ordered, That all trained Souldiers, whether Horse or Foot, shall repair to their several Quarters, and lodge their Arms immediately after their dismission upon Training dayes: And whosoever shall either singly or in companies remain in Arms, and vainly spend their time and Powder by inordinate shooting in the day or night after their Release;<note place="margin">Disorder in Souldiers to be punished by the Officers.</note> such Souldiers upon con<g ref="char:EOLhyphen"/>viction shall be punished by their Superiour Officers Order, upon the next Training-day, at the Head of the Company, by sharp Admonition, or other<g ref="char:EOLhyphen"/>wise with any usual Military Punishment, at the discretion of the chief Officer: Provided the Magistrate have not taken notice of the matter before.</p>
                <p>It is also further Ordered, That all Souldiers, whether Horse or Foot, who shall disobey the lawful Commands of their Superiour Officers upon any Train<g ref="char:EOLhyphen"/>ing-day, either in time of Exercise in the Body, or otherwise Refusing to per<g ref="char:EOLhyphen"/>form any Service which their Officers in their discretion shall judge expedient, in order to the furtherance and promoting Military Work; such refractory Souldiers shall be punished either by Admonition, or otherwise, at the Head
-<pb n="7" facs="tcp:000081_0007_0F9F8FC4A23CD4E0"/>
+<pb n="7" facs="unknown:000081_0007_0F9F8FC4A23CD4E0"/>
 of the Company, with any usual Military Punishments, at the discretion of the Chief Officers.</p>
                <p>It is also further Ordered, and be it hereby Enacted,<note place="margin">Troopers allow<g ref="char:EOLhyphen"/>ance of 5 <gap reason="illegible: indecipherable" extent="1 letter">
                         <desc>•</desc>
